@@ -1,7 +1,9 @@
 QR Code Component - Frontend Mentor Challenge
+
 Descrição
 
 Projeto de desafio do Frontend Mentor para criar um componente visual de QR Code estático. O objetivo é replicar o design proposto, usando HTML e CSS, sem funcionalidade adicional.
+
 Funcionalidades
 
     Layout responsivo e estilizado conforme o design do desafio.
